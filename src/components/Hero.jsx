@@ -30,7 +30,7 @@ function Hero() {
           <a
   href="/Gourab-Kundu-CV.pdf"
   className="secondary-button"
-  download="Gourab Kundu-CV.pdf"
+  download="Gourab-Kundu-CV.pdf"
 >
   Download CV ↓
 </a>
