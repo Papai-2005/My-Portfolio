@@ -58,10 +58,10 @@ function Hero() {
 
       <div className="hero-image">
   <img
-    src="/public/My-image.jpeg"
-    alt="Gourab Kundu - Backend Developer"
-    className="profile-photo"
-  />
+  src="/My-image.jpeg"
+  alt="Gourab Kundu - Backend Developer"
+  className="profile-photo"
+/>
 
   <p>Backend Developer · Kolkata, India</p>
 </div>

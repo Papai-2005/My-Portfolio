@@ -5,7 +5,7 @@ const projects = [
     category: "FULL-STACK FINANCIAL APPLICATION",
     description:
       "A financial transaction management platform featuring wallet management, secure transactions, financial analytics and audit tracking.",
-    image: "/public/Project-Chainledger.png",
+    image: "/Project-Chainledger.png",
     technologies: [
       "Node.js",
       "Express.js",
@@ -24,7 +24,7 @@ const projects = [
     category: "BACKEND REST API",
     description:
       "A backend financial ledger system supporting account management, balance tracking, fund transfers and immutable transaction records.",
-    image: "/public/backend-ledger-2.webp",
+    image: "/backend-ledger-2.webp",
     technologies: [
       "Node.js",
       "Express.js",
@@ -43,7 +43,7 @@ const projects = [
     category: "URL SHORTENER",
     description:
       "A URL shortening application that converts long URLs into compact links using Base62 encoding and Redis-based storage.",
-    image: "/public/LinkForge-Project.png",
+    image: "/LinkForge-Project.png",
     technologies: [
       "Next.js",
       "TypeScript",
